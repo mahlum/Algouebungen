@@ -1,0 +1,8 @@
+import Values.*;
+
+public class Start {
+	public static void main(String[] args){
+		Integer[] field = new Integer[2000000];
+		Values val = new Values();
+	}
+}

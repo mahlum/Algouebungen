@@ -3,7 +3,7 @@ import java.util.*;
 public class Start {
 
 	public static void main(String[] args) {
-		Distance dist = new Distance();
+		GenerateValues dist = new GenerateValues();
 		long timeStart, timeEnd;
 		// erst Fibonacci alle drei :)
 //		System.out.println("Fibonacci:");
